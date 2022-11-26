@@ -1,0 +1,30 @@
+{
+  "name": "insomnia-plugin-jd297-api-token-auto-refresh",
+  "version": "1.0.0",
+  "description": "Insomnia plugin that checks for an api token in response and saves it as a template variable.",
+  "license": "BSD-2-CLAUSE",
+  "private": false,
+  "keywords": [
+    "insomnia",
+    "insomnia-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JD297/insomnia-plugin-jd297-api-token-auto-refresh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JD297/insomnia-plugin-jd297-api-token-auto-refresh/issues"
+  },
+  "homepage": "https://github.com/JD297/insomnia-plugin-jd297-api-token-auto-refresh#readme",
+  "author": "Jan Dommasch <jan.dommasch297@gmail.com>",
+  "insomnia": {
+    "name": "jd297-api-token-auto-refresh",
+    "displayName": "API token auto refresh",
+    "description": "Insomnia plugin that checks for an api token in response and saves it as a template variable.",
+    "publisher": {
+      "name": "Jan Dommasch",
+      "icon": "https://avatars.githubusercontent.com/u/56673596"
+    }
+  },
+  "main": "main.js"
+}
